@@ -44,7 +44,7 @@ export default function Team() {
                 <div className="mb-6">
                   <div className="bg-sage-100 rounded-lg overflow-hidden shadow-lg mb-6">
                     <Image
-                      src="/images/teresa-bio.jpg"
+                      src="/images/teresa-bio.webp"
                       alt="Teresa Foster, FNP - The Flow Co. IV+O2"
                       width={323}
                       height={452}

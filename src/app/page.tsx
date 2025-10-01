@@ -146,7 +146,7 @@ export default function Home() {
               <div className="relative">
                 <div className="bg-sage-100 rounded-lg overflow-hidden shadow-lg">
                   <Image
-                    src="/images/medical-bg.png"
+                    src="/images/heroimage.webp"
                     alt="The Flow Co. IV+O2 - Functional Medicine Practice"
                     width={600}
                     height={500}
